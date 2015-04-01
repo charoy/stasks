@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{"recommend":{"ram":256,"variables":{},"options":{}}},"default":"system:/python/web/python27_gae1914"},"builders":{"configs":{}},"description":"Social Task Test","type":"GAEPython","attributes":{"language":["python"]}}
